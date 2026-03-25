@@ -1,0 +1,10 @@
+python-dotenv
+requests
+pandas
+numpy
+matplotlib
+yfinance
+transformers
+torch
+sentencepiece
+accelerate
