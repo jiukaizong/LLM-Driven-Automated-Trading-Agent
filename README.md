@@ -79,7 +79,7 @@ Sentiment is positive
 Conviction is high enough
 Price is above MA50
 
-## Results Table
+## Results Table（conservative mode）
 Metric: Sharpe Ratio
 Strategy: -1.00
 Benchmark: 0.63
@@ -91,3 +91,20 @@ Benchmark: -22.99
 Metric: Total Return (%)
 Strategy: -1.11
 Benchmark: 16.28
+
+## Results Table（aggressive mode）
+Metric: Sharpe Ratio
+Strategy: 1.26
+Benchmark: 0.57
+
+Metric: Max Drawdown (%)
+Strategy: -8.61
+Benchmark: -22.99
+
+Metric: Total Return (%)
+Strategy: 20.98
+Benchmark: 14.17
+
+# Online google colab
+conservative mode: https://colab.research.google.com/drive/17rSAIRQ4pt4cHzozyjoWV_u04ZGOXE9G?usp=sharing 
+aggressive mode: https://colab.research.google.com/drive/1PMwfP3HtOeNG91M_aMEA9T_x3hPmEwx5?usp=sharing 
